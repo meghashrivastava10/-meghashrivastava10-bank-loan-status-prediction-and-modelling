@@ -1,5 +1,5 @@
 library(readxl)
-credit=read.csv("C:/Users/abhhi/OneDrive/Desktop/DA project/credit_train.csv")
+credit=read.csv("C:/Users/megha/OneDrive/Desktop/DA project/credit_train.csv")
 head(credit)
 
 library(dplyr)
